@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/bookmanj/demo-app:latest
+      - image: ghcr.io/bookmanj/demo-app:83bc08cb69b045ac946099ca9238d61cd7fb022a
         name: demo-app
         ports:
         - containerPort: 8080
