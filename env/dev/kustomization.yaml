@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/bookmanj/demo-app
-  newTag: latest
+  newTag: 83bc08cb69b045ac946099ca9238d61cd7fb022a
